@@ -10,6 +10,7 @@ Easy!Servicing is built using modern web development technologies, with a strong
 
 ---
 
+
 ## ✨ Features
 
 ### 👥 User Features
@@ -60,25 +61,11 @@ Follow these steps to set up the project on your local machine.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/easdy-servicing.git
-cd easdy-servicing
+git clone https://github.com/yourusername/easy-servicing.git
+cd easy-servicing
 
 
 
 
-
-![image](https://github.com/user-attachments/assets/1800584d-ab5f-4aa3-9f44-a3351d9fd447)
-
-
-
-
-![image](https://github.com/user-attachments/assets/ff21f964-62e9-44a4-b5e3-871d2d73a32c)
-
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/40cb2067-2d24-4868-b493-992a82722788)
 
 
